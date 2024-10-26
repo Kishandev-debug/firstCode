@@ -1,3 +1,16 @@
 hello world !! i am kishan and i will try to add commit on git
 take input 
 give output after sum 
+close the program
+i want to changesomething
+i got some thing that could be important.
+git diff (command is used to find the difference between current file and pervious file).
+git --version(command used to check version of the git )
+git init (create to empty reprository and create master reprository)
+git init -b (used to create new empty reprository in main reprository)
+git add <filename> (used to add file or go to staging on git reprository)
+git status( used to check status of the reprository)
+git commit(is used to commmit any file  )
+git commit -m "message you want to show "(used to commit file through any message)
+git commit -a -m "message"(used as a shoutcut or without going to staging you can commit any file)
+git diff --staged(used to check file after add or going to satging)
