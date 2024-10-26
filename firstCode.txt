@@ -1,9 +1,7 @@
-hello world !! i am kishan and i will try to add commit on git
-take input 
-give output after sum 
-close the program
-i want to changesomething
-i got some thing that could be important.
+
+i got some thing that could be important git command .
+git config --global user.name "username"(used to add your username on git)
+git config --global user.email "email"(used to add your email on git)
 git diff (command is used to find the difference between current file and pervious file).
 git --version(command used to check version of the git )
 git init (create to empty reprository and create master reprository)
