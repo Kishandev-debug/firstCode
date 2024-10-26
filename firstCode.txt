@@ -1,1 +1,3 @@
-hello world !! i am kishan and i will try to add commit on git 
+hello world !! i am kishan and i will try to add commit on git
+take input 
+give output after sum 
