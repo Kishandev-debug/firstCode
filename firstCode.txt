@@ -12,3 +12,5 @@ git commit(is used to commmit any file  )
 git commit -m "message you want to show "(used to commit file through any message)
 git commit -a -m "message"(used as a shoutcut or without going to staging you can commit any file)
 git diff --staged(used to check file after add or going to satging)
+git clone <link> https://github.com/torvalds/linux.git(for download any file from github)
+ssh-kegen -o is used to know who can push code or file (do only once in a machine ) connect to remote reprository
