@@ -14,3 +14,7 @@ git commit -a -m "message"(used as a shoutcut or without going to staging you ca
 git diff --staged(used to check file after add or going to satging)
 git clone <link> https://github.com/torvalds/linux.git(for download any file from github)
 ssh-kegen -o is used to know who can push code or file (do only once in a machine ) connect to remote reprository
+ git push origin main (for pushing file on github)
+ git remote -v (used to check remote on github) and (origin)
+ git tag (used to taging just like version 1.20.0) also for check taging 
+ git tag  -a(annoted taging and lightweight taging) (for taging )
